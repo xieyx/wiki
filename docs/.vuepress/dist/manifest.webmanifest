@@ -1,0 +1,30 @@
+{
+  "name": "CoolHub",
+  "short_name": "CoolHub",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/icons/qrcode.png",
+      "sizes": "340x340",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c",
+  "description": "coolhub.",
+  "lang": "zh-CN",
+  "related_applications": [
+  {
+    "platform": "qq",
+    "url": "https://a.app.qq.com/o/simple.jsp?pkgname=com.sina.licaishi",
+    "id": "com.sina.licaishi"
+  }, {
+    "platform": "itunes",
+    "url": "https://itunes.apple.com/cn/app/id956691588"
+  }]
+}
