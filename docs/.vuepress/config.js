@@ -26,6 +26,7 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             ['', '首页'],
+            'test',
           ],
         },
       ],
